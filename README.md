@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Machine learning and NLP**
 
-- 👨‍💻 All of my projects are available at [http://codeakki.github.io/](http://codeakki.github.io/)
+- 👨‍💻 All of my projects are available at [Code AKki](http://codeakki.github.io/)
 
-- 📝 I regularly write articles on [http://akkitechlearner.blogspot.com/](http://akkitechlearner.blogspot.com/)
+- 📝 I regularly write articles on [Akkitech](http://akkitechlearner.blogspot.com/)
 
 - 📫 How to reach me **codewithakki@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/codeakki/codeakki.github.io/blob/master/images/Akshay.pdf](https://github.com/codeakki/codeakki.github.io/blob/master/images/Akshay.pdf)
+- 📄 Know about my experiences [My resume](https://github.com/codeakki/codeakki.github.io/blob/master/images/Akshay.pdf)
 
 - ⚡ Fun fact **I love to learn new things, and I embrace my inner nerd. 🤓**
 
