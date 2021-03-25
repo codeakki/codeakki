@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [atarashi](https://github.com/fossology/atarashi)
 
 - 🌱 I’m currently learning **Machine learning and NLP**
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeakki&label=Profile%20views&color=0e75b6&style=flat" alt="Codeakki" /> </p>
+
 
 - 👨‍💻 All of my projects are available at [Code AKki](http://codeakki.github.io/)
 
