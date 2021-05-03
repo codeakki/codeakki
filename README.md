@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Machine learning and NLP**
 
 
-- 👨‍💻 All of my projects are available at [Code AKki](http://codeakki.github.io/)
+- 👨‍💻 All of my projects are available at [CodeAKki](http://codeakki.github.io/)
 
 - 📝 I regularly write articles on [Akkitech](http://akkitechlearner.blogspot.com/)
 
