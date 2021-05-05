@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [atarashi](https://github.com/fossology/atarashi)
 
-- 🌱 I’m currently learning **Machine learning and NLP**
+- 🌱 I’m currently learning **Machine learning and React**
 
 
 - 👨‍💻 All of my projects are available at [CodeAKki](http://codeakki.github.io/)
