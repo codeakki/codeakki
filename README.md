@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **codewithakki@gmail.com**
 
-- 📄 Know about my experiences [My resume](https://github.com/codeakki/codeakki.github.io/blob/master/images/Akshay.pdf)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1NU-1V02Hr4k9ktSQNRlyvqrCm5pZgDbq/view?usp=sharing)
 
 - ⚡ Fun fact **I love to learn new things, and I embrace my inner nerd. 🤓**
 
