@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Software developer from India</h3>
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeakki&label=Profile%20views&color=0e75b6&style=flat" alt="Codeakki" /> </p>
 
-- 🔭 I’m currently working on building myself.
+- 🔭 I’m currently working at Astrotech Labs.
 
-- 🌱 I’m currently learning **Machine learning and NLP.**
+- 🌱 I’m currently learning **Web3.**
 
 
 - 👨‍💻 All of my projects are available at [CodeAKki](http://codeakki.github.io/)
