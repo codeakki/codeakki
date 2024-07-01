@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Doubtless](https://play.google.com/store/apps/details?id=com.doubtless.doubtless&hl=en)
 
-- 👨‍💻 All of my projects are available at [https://www.codewithakki.live/](https://www.codewithakki.live/)
+- 👨‍💻 All of my projects are available at [https://www.akki.dev/](https://www.akki.dev/)
 
 - 💬 Ask me about **Software Enginnering & Competitive Programing**
 
